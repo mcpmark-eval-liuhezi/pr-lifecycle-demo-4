@@ -1,6 +1,7 @@
 """A tiny greeting script."""
 
-Greeting = "Hello, friend! Welcome to the onboarding sandbox - hope you feel right at home!"
+
+Greeting = "Hello there, welcome aboard! We're so glad you're joining the team - have a great day!"
 
 
 def main() -> None:
